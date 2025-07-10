@@ -1,0 +1,6 @@
+node_modules/
+__pycache__
+*.db
+docker-compose.yml
+Dockerfile
+Makefile1
