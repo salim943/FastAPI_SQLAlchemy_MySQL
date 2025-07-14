@@ -23,5 +23,3 @@ In this article, I'll provide you with a simple and straightforward guide on how
   - Retrieve a Single Record
   - Delete a Single Record
 - Connect the API Router to the App
-
-Read the entire article here: [https://codevoweb.com/build-a-crud-app-with-fastapi-and-sqlalchemy](https://codevoweb.com/build-a-crud-app-with-fastapi-and-sqlalchemy)
