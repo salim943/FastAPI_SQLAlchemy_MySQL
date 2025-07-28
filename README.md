@@ -9,11 +9,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 for beckend
 ### 'uvicorn app.main:app --reload'
 
-![Alt Text](https://github.com/salim943/FastAPI_SQLAlchemy_MySQL/blob/master/createProfile.png)
+### Create Profile
+![Alt Text](https://github.com/salim943/FastAPI_SQLAlchemy_MySQL/blob/master/createProfile.PNG)
 <br/><br/><br/><br/>
-![Alt Text](https://github.com/salim943/react-fastapi-admin-dashboard/blob/main/todos.png)
+### See Profile Detail
+![Alt Text](https://github.com/salim943/FastAPI_SQLAlchemy_MySQL/blob/master/profileDetail.PNG)
 <br/><br/><br/><br/>
-![Alt Text](https://github.com/salim943/react-fastapi-admin-dashboard/blob/main/todo_with_data.png)
+### Edit Profile Detail
+![Alt Text](https://github.com/salim943/FastAPI_SQLAlchemy_MySQL/blob/master/editProfile.PNG)
+<br/><br/><br/><br/>
 
 # Build a CRUD App with FastAPI and SQLAlchemy
 
